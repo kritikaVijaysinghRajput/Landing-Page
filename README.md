@@ -1,8 +1,38 @@
-# React + Vite
+# React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application that allows users to manage form data and display it in a structured table. It uses Redux for state management and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new form data to the Redux store.
+- Update existing form data.
+- Remove form data entries.
+- Display the data dynamically in a table.
+- Responsive design using Tailwind CSS.
+
+## Tech Stack
+
+- **React**: Frontend framework for building user interfaces.
+- **Redux Toolkit**: State management solution.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Vite**: Fast build tool and development server.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
+
+   Install dependencies:
+
+```bash
+
+npm install
+```
+2. **Start the development server**:
+
+```bash
+npm run dev
+```
+Open your browser and navigate to http://localhost:5173.
