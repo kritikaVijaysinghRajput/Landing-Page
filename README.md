@@ -23,10 +23,10 @@ This project is a React application that allows users to manage form data and di
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+   ```
 
-   Install dependencies:
 
-```bash
+ ** Install dependencies:
 
 npm install
 ```
