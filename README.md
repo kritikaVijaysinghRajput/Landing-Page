@@ -26,8 +26,8 @@ This project is a React application that allows users to manage form data and di
    ```
 
 
- ** Install dependencies:
-
+ ** Install dependencies**:
+```
 npm install
 ```
 2. **Start the development server**:
